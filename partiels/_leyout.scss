@@ -99,7 +99,7 @@
 
 // ABOUT
 .about {
-	background-color: $primary-normal;
+	background-color: #06121e;
 	overflow: hidden;
 	color: $white-normal;
 }
@@ -196,7 +196,7 @@
 .haircut-info {
 	width: 100%;
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 	padding: 14px;
 	background-color: $white-normal;
 	z-index: 99;

@@ -165,7 +165,7 @@ i {
   }
 }
 .about {
-  background-color: #090d11;
+  background-color: #06121e;
   overflow: hidden;
   color: #fff;
 }
@@ -254,7 +254,7 @@ i {
 .haircut-info {
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   padding: 14px;
   background-color: #fff;
   z-index: 99;
